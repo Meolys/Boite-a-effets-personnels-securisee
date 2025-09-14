@@ -1,0 +1,11 @@
+C:\Users\PC\Documents\Projet Boite a effet personnel\DesktopApp\DesktopApp\DesktopApp\bin\Debug\DesktopApp.exe.config
+C:\Users\PC\Documents\Projet Boite a effet personnel\DesktopApp\DesktopApp\DesktopApp\bin\Debug\DesktopApp.exe
+C:\Users\PC\Documents\Projet Boite a effet personnel\DesktopApp\DesktopApp\DesktopApp\bin\Debug\DesktopApp.pdb
+C:\Users\PC\Documents\Projet Boite a effet personnel\DesktopApp\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Projet Boite a effet personnel\DesktopApp\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Properties.Resources.resources
+C:\Users\PC\Documents\Projet Boite a effet personnel\DesktopApp\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Projet Boite a effet personnel\DesktopApp\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Projet Boite a effet personnel\DesktopApp\DesktopApp\DesktopApp\obj\Debug\DesktopApp.exe
+C:\Users\PC\Documents\Projet Boite a effet personnel\DesktopApp\DesktopApp\DesktopApp\obj\Debug\DesktopApp.pdb
+C:\Users\PC\Documents\Projet Boite a effet personnel\DesktopApp\DesktopApp\DesktopApp\obj\Debug\DesktopApp.exe.config
+C:\Users\PC\Documents\Projet Boite a effet personnel\DesktopApp\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Form1.resources
