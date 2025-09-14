@@ -43,7 +43,6 @@
             this.text.TabIndex = 0;
             this.text.Text = "Bienvenu sur l\'application Desktop du projet realiser à l\'aide du design graphiqu" +
     "e C# de visual studio";
-            this.text.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -52,7 +51,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(38, 13);
             this.label2.TabIndex = 1;
-            this.label2.Text = "V0.1.0";
+            this.label2.Text = "V0.1.1";
             // 
             // button1
             // 
@@ -62,6 +61,7 @@
             this.button1.TabIndex = 2;
             this.button1.Text = "Cliquer pour entrer";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click_1);
             // 
             // label3
             // 

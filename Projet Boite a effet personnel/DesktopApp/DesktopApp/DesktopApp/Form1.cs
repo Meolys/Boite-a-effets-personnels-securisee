@@ -17,9 +17,12 @@ namespace DesktopApp
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void button1_Click_1(object sender, EventArgs e)
         {
             text.Visible = false;
+            label3.Visible = false;
+            button1.Visible = false;
         }
+
     }
 }
